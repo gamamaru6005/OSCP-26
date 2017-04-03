@@ -3,6 +3,9 @@ layout: page
 title: Offensive Security Certified Professional Certification
 permalink: /oscp/
 ---
+
+test
+
 I anticipate passing the OSCP Certifcation Exam by June 2017.
 
 [Link to Offensive Security Certified Professional Information](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
