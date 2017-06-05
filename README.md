@@ -45,8 +45,6 @@ I hope to pass the OSCP exam sometime in June.
   * sufferance
 
 
-
-
 ## IT Network
 
 ### Root Shells:
