@@ -1,8 +1,9 @@
-[Offensive Security Certified Professional Link](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
+[Offensive Security OSCP Information](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
 
 I hope to pass the OSCP exam sometime in June.
 
-# Lab Progress as of 05/29/17
+# Lab Progress as of 06/04/17
+The only box left to root in the labs is jack in Admin network.
 
 ## Public Network
 
@@ -41,9 +42,9 @@ I hope to pass the OSCP exam sometime in June.
   * pain
   * sherlock
   * edbmachine
-### Low Privilege Shells
+  * 314159265
   * sufferance
-
+  
 
 ## IT Network
 
@@ -51,7 +52,10 @@ I hope to pass the OSCP exam sometime in June.
   * jeff
   * niky
   * brett
+  * sean
   * nina
+  * carrie
+  * cory
   
 ## Dev Network
 
@@ -62,7 +66,12 @@ I hope to pass the OSCP exam sometime in June.
   * james
   * john
   
+  
 ## Admin Network
 
 ### Root Shells:
   * luigi
+  * tricia
+  * mario
+### Low Priv Shells:
+  * jack
