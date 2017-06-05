@@ -3,7 +3,7 @@
 I hope to pass the OSCP exam sometime in June.
 
 # Lab Progress as of 06/04/17
-The only box left to root in the labs is jack in Admin network.
+I've rooted every box in the Labs. Only thing left to do is to pass the exam in the next few weeks.
 
 ## Public Network
 
@@ -73,5 +73,5 @@ The only box left to root in the labs is jack in Admin network.
   * luigi
   * tricia
   * mario
-### Low Priv Shells:
   * jack
+
