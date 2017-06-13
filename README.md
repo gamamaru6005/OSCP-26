@@ -1,9 +1,14 @@
+---
+layout: page
+title: OSCP Certification
+permalink: /oscp/
+---
 [Offensive Security OSCP Information](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
 
-I hope to pass the OSCP exam sometime in June.
+# I officially passed the OSCP Exam on June 13th, 2017.
 
 # Lab Progress as of 06/04/17
-I've rooted every box in the Labs. Only thing left to do is to pass the exam in the next few weeks.
+I've rooted every box in the Labs.
 
 ## Public Network
 
